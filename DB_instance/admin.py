@@ -1,5 +1,6 @@
 from django.contrib import admin
 
+# from .models import  ModeOfPayment, TransactionType, Transactions, Users
 from .models import Category, ModeOfPayment, TransactionType, Transactions, Users
 
 # Register your models here.
